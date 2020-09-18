@@ -10,7 +10,7 @@ until pedestrians move out from its way with image processing.
 
 * OpenGl for pedestrian detection
 * Robotic Operating System (ROS) for the comminucation in program
-* ROS Driver for Parrot AR-Drone 1.0 & 2.0 Quadrocopters -> [ardrone_autonomy](https://github.com/AutonomyLab/ardrone_autonomy)
+* ROS Driver for Parrot AR-Drone 1.0 & 2.0 Quadrocopters -> [AutonomyLab/ardrone_autonomy](https://github.com/AutonomyLab/ardrone_autonomy)
 
 
 ## Features
